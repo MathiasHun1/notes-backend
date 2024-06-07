@@ -20,7 +20,7 @@ let notes = [
   },
   {
     id: 6,
-    content: "auto deploy test",
+    content: "using scripts to deploy",
     important: false
   }
 ]
